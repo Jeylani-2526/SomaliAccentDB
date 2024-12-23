@@ -7,8 +7,7 @@
 - Future integration of accent analysis and AI detection.
 
 ## Project Structure  
-- `data/`: Raw and processed voice recordings.  
-- `scripts/`: Python scripts for processing and analysis.  
+- `data/`: Raw and processed voice recordings.   
 - `results/`: Processed data and analysis outputs.  
 - `docs/`: Documentation and project details.
 
