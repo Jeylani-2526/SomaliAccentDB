@@ -18,7 +18,7 @@ This dataset aims to support research in speech recognition, linguistic studies,
 ## Repository Structure
 ```
 Somali_Accent_DB/
-│-- Audio/                # Contains recorded audio samples
+│-- Data/                # Contains recorded audio samples
 │-- metadata/            # Speaker details and annotations
 │-- Scripts/             # Processing and Documentation files(in Turkish)
 │-- README.md            # Project documentation
