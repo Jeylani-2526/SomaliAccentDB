@@ -1,14 +1,15 @@
 # Somali_Accent_DB
 
 ## Overview
-Somali_Accent_DB is a linguistic dataset designed to capture variations in the pronunciation of English words by Somali speakers. 
+Somali_Accent_DB is a linguistic dataset designed to capture variations in Somali speakers' pronunciation of English words. 
 This dataset aims to support research in speech recognition, linguistic studies, and AI applications focused on Somali-accented English.
 
 ## Features
-- **Target Words**: Carefully selected words to highlight accent variations.
-- **Participant Pool**: Contributions from 200 Somali speakers.
-- **Audio Data**: Voice recordings in segmented form.
-- **Metadata**: Speaker information (e.g., age, gender, regional background) for detailed analysis.
+- **Speech Collection**: Audio recordings from Somali speakers covering various regions and dialects.
+- **Metadata Annotations**: Each recording is labeled with speaker details such as age, gender, and regional background.
+- **Word Segmentation**: Audio files are processed into individual words for phonetic and linguistic analysis.
+- **Accent Analysis (Future Work)**: Planned integration of AI models for accent classification and speech recognition.
+- **Public Dataset (Future Goal)**: A structured, open-access database for researchers and developers working on Somali speech processing.
 
 ## Project Goals
 - To facilitate accent-aware speech recognition models.
@@ -18,7 +19,7 @@ This dataset aims to support research in speech recognition, linguistic studies,
 ## Repository Structure
 ```
 Somali_Accent_DB/
-│-- Data/                # Contains recorded audio samples
+│-- Data/                # Contains recorded audio Voices
 │-- metadata/            # Speaker details and annotations
 │-- Scripts/             # Processing and Documentation files(in Turkish)
 │-- README.md            # Project documentation
